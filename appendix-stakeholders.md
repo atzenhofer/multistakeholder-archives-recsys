@@ -1,4 +1,4 @@
-# Stakeholder Groups - Detailed Overview
+# Appendix: Stakeholder Groups - Detailed Overview
 
 ## Upstream Stakeholders (U1-U5)
 | ID | Role | Expertise | Career Stage | Region |
@@ -21,7 +21,7 @@
 ## System Stakeholders (S1-S5)
 | ID | Role | Expertise | Career Stage | Region |
 |----|------|-----------|--------------|--------|
-| S1 | Core Developer | Lead developer of current Monasterium release | Mid | Western Europe |
+| S1 | Core Developer | (Past) Lead developer of current Monasterium release | Mid | Western Europe |
 | S2 | System Director | President of international archival organization; National archive leadership | Late | Northern Europe |
 | S3 | Information Retrieval Specialist | AI and recommender systems expert; Cultural heritage data specialist | Late | Western Europe |
 | S4 | Information Specialist | User behavior research; Innovation labs in cultural heritage | Mid | Northern Europe |
