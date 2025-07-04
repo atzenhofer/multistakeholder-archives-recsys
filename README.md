@@ -4,7 +4,7 @@ This repository contains supplementary materials for the paper:
 
 **A Multistakeholder Approach to Value-Driven Co-Design of Recommender System Evaluation Metrics in Digital Archives**
 
-*Submitted to RecSys 2025*
+*Accepted as Short Paper at RecSys 2025, Prague, Czech Republic*
 
 ## Repository Contents
 
